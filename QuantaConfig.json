@@ -1,0 +1,22 @@
+{
+  "badges": [
+	{
+      "id": "my_badge",
+      "user_id": 7878830498,
+      "emoji_id": 5992228811058450471, 
+      "text_template": "**{user_name}** - ну владелец типо"
+    },
+    {
+      "id": "channel_badge",
+      "chat_id": -1002345594195,
+      "emoji_id": 5393416280147522806,
+      "text_template": "**{chat_name}** - мой самый чотки канал"
+    },
+    {
+      "id": "bio_badge",
+      "chat_id": -1002302143753,
+      "emoji_id": 5249213633652597172,
+      "text_template": "**{chat_name}** епта, че вы думали"
+    }
+    ]
+}
