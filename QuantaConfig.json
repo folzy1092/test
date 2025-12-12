@@ -8,17 +8,18 @@
     },
     {
       "id": "channel_badge",
-      "chat_id": -1002345594195,
+      "chat_id": 2345594195,
       "emoji_id": 5440670060093922400,
       "text_template": "**{chat_name}** - мой самый чотки канал"
     },
     {
       "id": "bio_badge",
-      "chat_id": -1002302143753,
+      "chat_id": 2302143753,
       "emoji_id": 5339121524089575101,
       "text_template": "**{chat_name}** епта, че вы думали"
     }
     ]
 
 }
+
 
