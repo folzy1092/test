@@ -2,9 +2,9 @@
   "badges": [
 	{
       "id": "my_badge",
-      "user_id": 7878830498,
+      "chat_id": 3140369768,
       "emoji_id": 5195075536526797142, 
-      "text_template": "**{user_name}** - ну владелец типо"
+      "text_template": "**{chat_name}** - ну крутой канал типо"
     },
     {
       "id": "channel_badge",
@@ -19,7 +19,4 @@
       "text_template": "**{chat_name}** епта, че вы думали"
     }
     ]
-
 }
-
-
