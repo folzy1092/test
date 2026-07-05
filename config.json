@@ -10,13 +10,13 @@
       "id": "channel_badge",
       "chat_id": 2345594195,
       "emoji_id": 5440670060093922400,
-      "text_template": "**{chat_name}** - мой самый чотки канал"
+      "text_template": "**{chat_name}** - самый чотки канал"
     },
     {
       "id": "bio_badge",
-      "chat_id": 2302143753,
-      "emoji_id": 5339121524089575101,
-      "text_template": "**{chat_name}** епта, че вы думали"
+      "chat_id": 1068369028,
+      "emoji_id": 5427168083074628963,
+      "text_template": "**{chat_name}** - матвей бог67"
     }
     ]
 }
