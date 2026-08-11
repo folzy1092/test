@@ -2,7 +2,7 @@
   "badges": [
 	{
       "id": "my_badge",
-      "chat_id": 7878830498,
+      "user_id": 7878830498,
       "emoji_id": 5312416074573044428, 
       "text_template": "**{chat_name}** - оcнователь Shadow"
     },
@@ -14,7 +14,7 @@
     },
     {
       "id": "bio_badge",
-      "chat_id": 1068369028,
+      "user_id": 1068369028,
       "emoji_id": 5312416074573044428,
       "text_template": "**{chat_name}** - основатель Shadow"
     }
