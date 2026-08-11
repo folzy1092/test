@@ -10,7 +10,7 @@
       "id": "channel_badge",
       "chat_id": 2345594195,
       "emoji_id": 5312416074573044428,
-      "text_template": "**{chat_name}** - абчихба"
+      "text_template": "абчихба"
     },
     {
       "id": "bio_badge",
