@@ -2,21 +2,21 @@
   "badges": [
 	{
       "id": "my_badge",
-      "chat_id": 3140369768,
-      "emoji_id": 5195075536526797142, 
-      "text_template": "**{chat_name}** - ну крутой канал типо"
+      "chat_id": 7878830498,
+      "emoji_id": 5312416074573044428, 
+      "text_template": "**{chat_name}** - оcнователь Shadow"
     },
     {
       "id": "channel_badge",
       "chat_id": 2345594195,
-      "emoji_id": 5440670060093922400,
-      "text_template": "**{chat_name}** - самый чотки канал"
+      "emoji_id": 5312416074573044428,
+      "text_template": "**{chat_name}** - абчихба"
     },
     {
       "id": "bio_badge",
       "chat_id": 1068369028,
-      "emoji_id": 5427168083074628963,
-      "text_template": "**{chat_name}** - матвей бог67"
+      "emoji_id": 5312416074573044428,
+      "text_template": "**{chat_name}** - основатель Shadow"
     }
     ]
 }
