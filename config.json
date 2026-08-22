@@ -16,7 +16,7 @@
       "id": "bio_badge",
       "user_id": 1068369028,
       "emoji_id": 5312416074573044428,
-      "text_template": "**{chat_name}** - основатель Shadow"
+      "text_template": "Основатель Shadow - **{chat_name}**"
     }
     ]
 }
