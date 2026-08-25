@@ -4,7 +4,7 @@
 	{
       "id": "my_badge",
       "user_id": 7878830498,
-      "emoji_id": 5312416074573044428, 
+      "emoji_id": 5229027828527309057, 
       "text_template": "**{chat_name}** - оcнователь Shadow"
     },
     {
@@ -16,7 +16,7 @@
     {
       "id": "bio_badge",
       "user_id": 1068369028,
-      "emoji_id": 5312416074573044428,
+      "emoji_id": 5229027828527309057,
       "text_template": "Основатель Shadow - **{chat_name}**"
     }
     ]
