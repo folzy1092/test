@@ -14,6 +14,12 @@
       "text_template": "абчихба"
     },
     {
+      "id": "german_badge",
+      "user_id": 5577242038,
+      "emoji_id": 5368808376694248152,
+      "text_template": "а так это герман"
+    },
+    {
       "id": "bio_badge",
       "user_id": 1068369028,
       "emoji_id": 5229027828527309057,
